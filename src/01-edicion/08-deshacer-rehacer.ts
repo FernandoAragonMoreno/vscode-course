@@ -9,10 +9,11 @@
 //*        Ctrl + Shift + Z
 //*
 
+function holaMundo() {
+  return "Hola Mundo";
+}
 
 //! Demo
 // function holaMundo() {
 //     return 'Saludos a todos!';
 // }
-
-

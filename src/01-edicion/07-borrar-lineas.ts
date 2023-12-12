@@ -12,14 +12,10 @@
 //*        Ctrl + Shift + L
 //*
 
-let NoMeBorres = ':)';
-let Borrame = ':(';
+let NoMeBorres = ":)";
 
-NoMeBorres = '1';
-Borrame    = 'a';
-NoMeBorres = '1';
-Borrame    = 'a';
-
+NoMeBorres = "1";
+NoMeBorres = "1";
 
 // Resultado final (sin los comentarios claro.)
 
@@ -27,3 +23,6 @@ Borrame    = 'a';
 
 // NoMeBorres = '1';
 // NoMeBorres = '1';
+
+//ctrl+F2 -> Multicursor
+//ctrl+Shift+k -> Elimina todo
